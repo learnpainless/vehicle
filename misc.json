@@ -1,35 +1,39 @@
 {
-    "occupations": [
-        "Business man",
-        "Chartered accountant",
-        "Doctor",
-        "Engineer",
-        "House wife",
-        "Student",
-        "Teacher",
-        "Organisation",
-        "Other"
-    ],
-    "fuelTypes": [
-        "CNG",
-        "Diesel",
-        "Petrol"
-    ],
-    "quantityTypes": [
-        "Litre",
-        "Gallon"
-    ],
-    "vehicleTypes": [
-        "bicycle or bike",
-        "cab",
-        "car",
-        "Jeep",
-        "scooter",
-        "taxi",
-        "three-wheeler",
-        "tractor",
-        "truck",
-        "van",
-        "wagon or waggon"
-    ]
+    "status": "1",
+    "message": "Data",
+    "data": {
+        "occupations": [
+            "Business man",
+            "Chartered accountant",
+            "Doctor",
+            "Engineer",
+            "House wife",
+            "Student",
+            "Teacher",
+            "Organisation",
+            "Other"
+        ],
+        "fuelTypes": [
+            "CNG",
+            "Diesel",
+            "Petrol"
+        ],
+        "quantityTypes": [
+            "Litre",
+            "Gallon"
+        ],
+        "vehicleTypes": [
+            "bicycle or bike",
+            "cab",
+            "car",
+            "Jeep",
+            "scooter",
+            "taxi",
+            "three-wheeler",
+            "tractor",
+            "truck",
+            "van",
+            "wagon or waggon"
+        ]
+    }
 }
