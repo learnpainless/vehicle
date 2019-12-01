@@ -23,17 +23,18 @@
       "Gallon"
     ],
     "vehicleTypes": [
-      "bicycle or bike",
-      "cab",
-      "car",
+      "Bicycle or Bike",
+      "Cab",
+      "Car",
       "Jeep",
-      "scooter",
-      "taxi",
-      "three-wheeler",
-      "tractor",
-      "truck",
-      "van",
-      "wagon or waggon"
+      "Scooter",
+      "Scooty",
+      "Taxi",
+      "Three-wheeler",
+      "Tractor",
+      "Truck",
+      "Van",
+      "Wagon or Waggon"
     ],
     "odometerUnit": [
       "Kilometres",
