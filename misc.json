@@ -16,11 +16,18 @@
     "fuelTypes": [
       "CNG",
       "Diesel",
-      "Petrol"
+      "Petrol",
+      "Ethanol",
+      "LPG",
+      "Electric",
+      "Flex"
     ],
     "quantityTypes": [
       "Litre",
-      "Gallon"
+      "Gallon (USA)",
+      "Gallon (UK)",
+      "kWh",
+      "kg"
     ],
     "vehicleTypes": [
       "Bicycle or Bike",
