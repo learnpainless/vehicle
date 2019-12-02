@@ -41,7 +41,8 @@
       "Tractor",
       "Truck",
       "Van",
-      "Wagon or Waggon"
+      "Wagon or Waggon",
+      "Other"
     ],
     "odometerUnit": [
       "Kilometres",
