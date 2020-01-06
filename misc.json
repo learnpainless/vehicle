@@ -60,6 +60,17 @@
       "gal/100 mi",
       "MPG (US)",
       "MPG (Imperial)"
+    ],
+    "otherExpanses": [
+      "Maintenance",
+      "Registration",
+      "Parking",
+      "Wash",
+      "Tolls",
+      "Tickets/Fines",
+      "Tuning",
+      "Insurance",
+      "Tax"
     ]
   }
 }
